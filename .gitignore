@@ -1,0 +1,8 @@
+#ignore the .metadata
+**/.metadata
+
+#ignore the .settings
+**/.settings
+
+#ignore the bin
+**/.target
